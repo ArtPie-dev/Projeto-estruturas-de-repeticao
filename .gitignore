@@ -1,0 +1,37 @@
+# Executáveis compilados
+*.exe
+*.out
+
+# Arquivos objeto e bibliotecas
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Arquivos temporários e logs
+*.tmp
+*.temp
+*.log
+core
+core.*
+
+# Arquivos de backup
+*~
+*.bak
+*.swp
+*.swo
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Pastas de compilação
+build/
+bin/
+obj/
